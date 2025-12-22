@@ -10,9 +10,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 🤔 I’m looking for help with ...
 -->
-- 🔭 I’m the lead developer of Logistel LTD's marketplace (still in development)
+- 🔭 I’m the lead developer of Logistel LTD's marketplace (preview available here: https://bright-sun-energies.web.app/)
 - ✨ I'm a developer of NMG Zembeta (currently available here: https://nmg-commerce.web.app/)
-- 🌱 I’m currently learning game development with GODOT
+- 🌱 I'm currently working on a service provider mobile application in react native (still in development)
+- 🌱 I’m also currently learning game development with GODOT
 - 👯 I’m looking to collaborate on:
   * web, desktop and mobile application projects
   * game development projects
